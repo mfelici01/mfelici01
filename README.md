@@ -7,7 +7,7 @@ I'm a passionate developer who loves creating innovative projects and solving co
 
 #### 🚀 Projects
 - **[L3_tp1](https://github.com/mfelici01/L3_tp1)**: A project using PHP. 🌐
-- **[NHU_LYNA_MALEK](https://github.com/mfelici01/NHU_LYNA_MALEK)**: Final project in JavaScript for AAW. 🖥️
+- **[NHU_LYNA_MALEK](https://github.com/mfelici01/NHU_LYNA_MALEK)**: Final project in for AAW. 🖥️
 - **[PROJET_LE](https://github.com/mfelici01/PROJET_LE)**: A QT app to show Temperature, Humidity, and Pressure, also available on mobile using BLE, written in C++. 📱📊
 - **[AIQ_MIND](https://github.com/mfelici01/AIQ_MIND)**: Java project. ☕🤖
 - **[POKESTAT](https://github.com/mfelici01/POKESTAT)**: A Pokémon search engine in Android Studio using Java. 🔍📱
