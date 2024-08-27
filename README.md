@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Hi there, I'm Mfelici01 👋
+### Hi there, I'm Malek AKA Mfelici01  👋
 
 #### About Me
 I'm a passionate developer who loves creating innovative projects and solving complex problems. 💻✨
